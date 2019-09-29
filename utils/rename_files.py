@@ -1,6 +1,6 @@
 import os
 import sys
-import Image
+from PIL import Image
 
 directory = sys.argv[1]
 img_type = sys.argv[2]
