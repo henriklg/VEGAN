@@ -107,4 +107,4 @@ chromedriver.exe
 /.ipynb_checkpoints
 /input_data
 /forest_painting
-/final_model_weights
+/generated_images
