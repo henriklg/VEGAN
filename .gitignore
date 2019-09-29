@@ -105,6 +105,6 @@ venv.bak/
 chromedriver.exe
 /checkpoints
 /.ipynb_checkpoints
-/generated_images
+/input_data
 /forest_painting
 /final_model_weights
