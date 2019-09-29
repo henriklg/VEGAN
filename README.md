@@ -9,8 +9,6 @@ Clone of [Zach Monge](https://github.com/zachmonge)'s [Forest GAN](https://githu
   <img src="github_example_images/22.png" width="200" /> 
   <img src="github_example_images/27.png" width="200" />
   <img src="github_example_images/48.png" width="200" />
-</p>
-<p float="left">
   <img src="github_example_images/61.png" width="200" />
   <img src="github_example_images/90.png" width="200" /> 
   <img src="github_example_images/94.png" width="200" />
@@ -22,3 +20,8 @@ Clone of [Zach Monge](https://github.com/zachmonge)'s [Forest GAN](https://githu
   <img src="github_example_images/257.png" width="200" />
   <img src="github_example_images/263.png" width="200" />
 </p>
+
+
+### Coming "soon"
+* https://no.pinterest.com/pin/347973508707225607/ + landscapes
+* cubism/polygon art
