@@ -5,7 +5,7 @@ Clone of [Zach Monge](https://github.com/zachmonge)'s [Forest GAN](https://githu
 
 ### Abstract Corals
 <p float="left">
-  <img src="github_example_images/144.png" width="100" />
-  <img src="github_example_images/100.png" width="100" /> 
-  <img src="github_example_images/134.png" width="100" />
+  <img src="github_example_images/144.png" width="200" />
+  <img src="github_example_images/100.png" width="200" /> 
+  <img src="github_example_images/134.png" width="200" />
 </p>
