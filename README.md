@@ -13,8 +13,6 @@ Clone of [Zach Monge](https://github.com/zachmonge)'s [Forest GAN](https://githu
   <img src="github_example_images/90.png" width="200" /> 
   <img src="github_example_images/94.png" width="200" />
   <img src="github_example_images/167.png" width="200" />
-</p>
-<p float="left">
   <img src="github_example_images/184.png" width="200" />
   <img src="github_example_images/191.png" width="200" /> 
   <img src="github_example_images/257.png" width="200" />
