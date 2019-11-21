@@ -102,9 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-chromedriver.exe
 /checkpoints
 /.ipynb_checkpoints
 /input_data
-/forest_painting
 /generated_images
